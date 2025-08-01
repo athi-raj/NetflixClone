@@ -9,7 +9,7 @@ Frontend: React.js, Tailwind CSS / Styled Components
 
 Deployment: Vercel
 ## 🔗 Website
-https://netflix-clone-chi-one-46.vercel.app/
+https://netflix-clone-latest-six.vercel.app/
 ## 📸 Features
 🔥 Hero banner with random trending content
 
